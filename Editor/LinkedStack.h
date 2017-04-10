@@ -1,9 +1,4 @@
-//  Created by Frank M. Carrano and Timothy M. Henry.
-//  Copyright (c) 2017 Pearson Education, Hoboken, New Jersey.
 
-/** ADT stack: Link-based implementation.
-    Listing 7-3.
-    @file LinkedStack.h */
  
 #ifndef LINKED_STACK_
 #define LINKED_STACK_
