@@ -1,0 +1,13 @@
+hi
+#include <string>
+hello	
+hell
+
+using namespace std;
+
+// this program doesn't do much yet
+void main (int argc, char * argv[]){
+
+    Editor editor(argv[1]);
+
+}
